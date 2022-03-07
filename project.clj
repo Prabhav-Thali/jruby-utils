@@ -22,7 +22,7 @@
                  [prismatic/schema]
                  [slingshot]
 
-                 [puppetlabs/jruby-deps "9.2.21.0-1"]
+                 [Prabhav-Thali/jruby-deps "9.2.21.0-1"]
 
                  [puppetlabs/i18n]
                  [puppetlabs/kitchensink]
